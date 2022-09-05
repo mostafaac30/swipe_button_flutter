@@ -1,4 +1,4 @@
-# swipebuttonflutter
+# swipebuttonflutter.
 
 A new Flutter package for animated swipe button.
 
